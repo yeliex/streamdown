@@ -1,5 +1,11 @@
 # streamdown
 
+## 1.6.9
+
+### Patch Changes
+
+- 57dec2a: Restores pan-zoom component to normal size when mermaid component is maximized
+
 ## 1.6.8
 
 ### Patch Changes
